@@ -15,7 +15,61 @@ function App() {
       <Rawpost url={romance} title="Romance" isSmall/> 
       <Rawpost url={comedy} title="Comedy" isSmall/> 
       <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
+      <Rawpost url={actions} title="Action" isSmall/>
+      <Rawpost url={trending} title="Trending" isSmall/>
+      <Rawpost url={romance} title="Romance" isSmall/> 
+      <Rawpost url={comedy} title="Comedy" isSmall/> 
+      <Rawpost url={horror} title="Horror" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
       <Rawpost url={actions} title="Action" isSmall/>
       <Rawpost url={trending} title="Trending" isSmall/>
       <Rawpost url={romance} title="Romance" isSmall/> 
@@ -27,61 +81,7 @@ function App() {
       <Rawpost url={romance} title="Romance" isSmall/> 
       <Rawpost url={comedy} title="Comedy" isSmall/> 
       <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
-      <Rawpost url={actions} title="Action" isSmall/>
-      <Rawpost url={trending} title="Trending" isSmall/>
-      <Rawpost url={romance} title="Romance" isSmall/> 
-      <Rawpost url={comedy} title="Comedy" isSmall/> 
-      <Rawpost url={horror} title="Horror" isSmall/> 
-      <Rawpost url={documentary} title="DOcumentary" isSmall/> 
+      <Rawpost url={documentary} title="Documentary" isSmall/> 
       
     
     </div>
