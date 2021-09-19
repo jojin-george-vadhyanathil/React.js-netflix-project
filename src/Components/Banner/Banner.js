@@ -10,6 +10,7 @@ function Banner() {
            setMovie(response.data.results[8])
           
           
+          
        })
     },[])
     return (
